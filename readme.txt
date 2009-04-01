@@ -9,7 +9,7 @@ This plugin allows users to be authenticated via CAS, and logins to be controlle
 
 == Description ==
 
-**THIS IS FOR DEVELOPMENT PURPOSES ONLY, NOT FOR USE ON PRODUCTION SITES**
+**THIS IS FOR DEVELOPMENT PURPOSES, NOT FOR USE ON PRODUCTION SITES**
 
 This plugin is meant to be a reference; I've talked to several people who have similar setups, and thought it would beneficial to share some code.
 
