@@ -11,7 +11,7 @@ This plugin allows users to be authenticated via CAS, and logins to be controlle
 
 **THIS IS FOR DEVELOPMENT PURPOSES ONLY, NOT FOR USE ON PRODUCTION SITES**
 
-This plugin is meant to be a reference; I've talked to several people who have similar setups, and thought it would beneficial to share my code.
+This plugin is meant to be a reference; I've talked to several people who have similar setups, and thought it would beneficial to share some code.
 
 This plugin allows users to be authenticated via CAS, and logins to be controlled via LDAP. Default user roles can be assigned based on LDAP group membership, and accounts can be auto-created for users that exist in LDAP, but not yet in WordPress.
 
